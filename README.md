@@ -5,24 +5,24 @@ This JavaScript tutorial and JavaScript full course is a project based series of
 
 <h3>Part 1:</h3>
 
-Lesson 01 - JavaScript Basics<br>
-Lesson 02 - Numbers and Math<br>
-Lesson 03 - Strings<br>
-Lesson 04 - HTML CSS Review, console.log<br>
-Lesson 05 - Variables<br>
-Lesson 06 - Booleans and If-Statements<br>
-Lesson 07 - Functions<br>
-Lesson 08 - Objects<br>
-Lesson 09 - Document Object Model (DOM)<br>
-Lesson 10 - HTML, CSS, and JavaScript Together<br>
-Lesson 11 (Part 1) - Arrays and Loops<br>
-Lesson 11 (Part 2) - Arrays and Loops<br>
-Lesson 12 (Part 1) - Advanced Functions<br>
-Lesson 12 (Part 2) - Advanced Functions<br>
+- Lesson 01 - JavaScript Basics<br>
+- Lesson 02 - Numbers and Math<br>
+- Lesson 03 - Strings<br>
+- Lesson 04 - HTML CSS Review, console.log<br>
+- Lesson 05 - Variables<br>
+- Lesson 06 - Booleans and If-Statements<br>
+- Lesson 07 - Functions<br>
+- Lesson 08 - Objects<br>
+- Lesson 09 - Document Object Model (DOM)<br>
+- Lesson 10 - HTML, CSS, and JavaScript Together<br>
+- Lesson 11 (Part 1) - Arrays and Loops<br>
+- Lesson 11 (Part 2) - Arrays and Loops<br>
+- Lesson 12 (Part 1) - Advanced Functions<br>
+- Lesson 12 (Part 2) - Advanced Functions<br>
 
 <h3>Part 2:</h3>
 
-Lesson 13: The Amazon Project
+- Lesson 13 - The Amazon Project
 
 
 _A course given by SuperSimpleDev_
