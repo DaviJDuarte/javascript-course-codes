@@ -1,0 +1,1 @@
+document.write(2+2-5);
