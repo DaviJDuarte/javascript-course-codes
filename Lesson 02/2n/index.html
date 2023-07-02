@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 2n</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Temperature Converter:</h2>
+
+        <label for="temp">Enter the temperature:</label>
+        <input type="text" id="temp" >
+
+        <label for="unit">Select unit:</label>
+        <select id="unit">
+            <option value="celsius">Celsius to Fahrenheit</option>
+            <option value="fahrenheit">Fahrenheit to Celsius</option>
+        </select>
+
+        <button onclick="convert()">Convert</button>
+        <p id="result"></p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
