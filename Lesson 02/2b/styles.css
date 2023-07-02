@@ -1,0 +1,43 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.order {
+    border: 1px solid gray;
+    width: 250px;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+.description {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.item {
+    padding-left: 14px;
+}
+
+p {
+    margin: 0;
+    display: inline-block;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+.customer {
+    color: green;
+    padding: 0 5px 14px 14px;
+}
+
+#total-each {
+    text-decoration: underline;
+}
