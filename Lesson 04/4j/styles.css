@@ -1,0 +1,9 @@
+#cart {
+  background-color: yellow;
+  cursor: pointer;
+}
+
+#buy {
+  background-color: orange;
+  cursor: pointer;
+}
