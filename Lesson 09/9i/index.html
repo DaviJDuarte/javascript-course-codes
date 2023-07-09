@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Cart Quantity</title>
+</head>
+
+<body>
+  <button onclick="
+      updateCartQuantity(null);
+    ">Show Quantity</button>
+
+  <button onclick="
+      updateCartQuantity(1);
+    ">Add to Cart</button>
+
+  <button onclick="
+      updateCartQuantity(2);
+    ">+2</button>
+
+  <button onclick="
+      updateCartQuantity(3);
+    ">+3</button>
+
+  <button onclick="
+      updateCartQuantity(4);
+    ">+4</button>
+
+  <button onclick="
+      updateCartQuantity(5);
+    ">+5</button>
+
+  <button onclick="
+      updateCartQuantity(-1);
+    ">Remove from cart</button>
+
+  <button onclick="
+      updateCartQuantity(-2);
+    ">-2</button>
+
+  <button onclick="
+     updateCartQuantity(-3);
+    ">-3</button>
+
+  <button onclick="
+      cartQuantity = 0;
+      updateCartQuantity(null);
+    ">Reset Cart</button>
+
+  <p class="js-cart-quantity-text"></p>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
