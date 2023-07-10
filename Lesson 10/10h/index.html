@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercise 10h</title>
+
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+  <p>Amazon Shipping Calculator</p>
+  <input placeholder="Cost of order" class="js-cost-input cost-input" onkeydown="
+  handleCostKeydown(event);
+  ">
+  <button onclick="
+  calculateTotal();
+  " class="calculate-button">Calculate</button>
+  <p class="js-total-cost"></p>
+
+  <script src="scripts/script.js"></script>
+</body>
+
+</html>
