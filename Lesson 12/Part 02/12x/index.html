@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Rock Paper Scissors</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <p class="title">Rock Paper Scissors</p>
+  <button class="move-button js-rock-button">
+    <img src="images/rock-emoji.png" class="move-icon">
+  </button>
+
+  <button class="move-button js-paper-button">
+    <img src="images/paper-emoji.png" class="move-icon">
+  </button>
+
+  <button class="move-button js-scissors-button">
+    <img src="images/scissors-emoji.png" class="move-icon">
+  </button>
+
+  <p class="js-result result"></p>
+  <p class="js-moves"></p>
+  <p class="js-score score"></p>
+
+  <button class="reset-score-button js-reset-score-button">Reset Score</button>
+
+  <button class="auto-play-button js-auto-play-button ">Auto Play</button>
+  <div class="confirm-reset-score-div js-confirm-reset-score-div">
+    <p class="confirmation-text">Are you sure you want to reset the score?</p>
+    <button id="yes-confirm">Yes</button>
+    <button id="no-confirm">No</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
