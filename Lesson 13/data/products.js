@@ -656,5 +656,32 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "images/products/backpack.jpg",
+    name: "Black Backpack",
+    rating: {
+      stars: 4.0,
+      count: 2345
+    },
+    priceCents: 3000,
+    keywords: [
+      "backpack",
+      "mens"
+    ]
+  },
+  {
+    id: "id2",
+    image: "images/products/umbrella.jpg",
+    name: "Umbrellas for Rain Windproof, Strong Compact Umbrella for Wind and Rain, Perfect Car Umbrella, Backpack, and On-the-Go",
+    rating: {
+      stars: 4.5,
+      count: 63183
+    },
+    priceCents: 2399,
+    keywords: [
+      "umbrella"
+    ]
   }
 ];
